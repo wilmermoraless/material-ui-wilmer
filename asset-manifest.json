@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/material-ui-wilmer/static/css/main.31d6cfe0.css",
+    "main.js": "/material-ui-wilmer/static/js/main.42362c39.js",
+    "static/js/787.ced7f6b1.chunk.js": "/material-ui-wilmer/static/js/787.ced7f6b1.chunk.js",
+    "index.html": "/material-ui-wilmer/index.html",
+    "main.42362c39.js.map": "/material-ui-wilmer/static/js/main.42362c39.js.map",
+    "787.ced7f6b1.chunk.js.map": "/material-ui-wilmer/static/js/787.ced7f6b1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.42362c39.js"
+  ]
+}
