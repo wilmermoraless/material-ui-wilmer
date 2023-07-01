@@ -1,4 +1,3 @@
-
 import {Container}  from '@mui/material';
 import MediaCard from './components/MediaCard';
 import ButtonAppBar from './components/ButtonAppBar';
